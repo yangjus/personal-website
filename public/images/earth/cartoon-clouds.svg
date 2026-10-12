@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2048" height="1024" viewBox="0 0 1000 500">
+  <defs><path id="puff" d="M0 17C-5 8 3 1 12 4 13-8 32-10 36 2 46-4 58 3 56 12 67 11 71 24 59 28H6C-2 28-6 21 0 17Z"/></defs>
+  <g fill="#fff8e9" stroke="#d8e8df" stroke-width="1.5" stroke-linejoin="round">
+    <use href="#puff" transform="translate(116 248) scale(1.05 1.05)"/>
+    <use href="#puff" transform="translate(364 170) scale(.85 .92)"/>
+    <use href="#puff" transform="translate(503 97) scale(.75 .8)"/>
+    <use href="#puff" transform="translate(638 263) scale(.9 .95)"/>
+    <use href="#puff" transform="translate(818 130) scale(.8 .85)"/>
+    <use href="#puff" transform="translate(421 370) scale(.8 .85)"/>
+    <use href="#puff" transform="translate(878 422) scale(.7 .8)"/>
+    <use href="#puff" transform="translate(48 125) scale(.7 .8)"/>
+  </g>
+</svg>
