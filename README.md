@@ -13,6 +13,10 @@ npm run dev
 
 Open http://localhost:3000. For production, run `npm run build` followed by `npm start`. Deploy to a Next.js-compatible host, such as Vercel or a Node server.
 
+Production: [justin-yang.vercel.app](https://justin-yang.vercel.app).
+
+To deploy the linked Vercel project from this directory, run `npx vercel deploy --prod`. The `.vercelignore` file excludes local build caches, verification screenshots, tests, and the archived prototype from uploads.
+
 ## Experience
 
 - Living cartoon Earth with clean continents, animated coastal tidal bands, billowy cloud banks, and orbiting seagulls with flapping wings. A geographically positioned New York City pin marks Justin’s home base. Drag the globe freely in any direction; release it to coast with Anime.js easing. Arrow keys rotate it and Home returns to New York City.

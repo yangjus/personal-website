@@ -1,0 +1,15 @@
+.git/
+.next/
+.next-*/
+.vercel/
+node_modules/
+.env*
+artifacts/
+test-results/
+playwright-report/
+dist/
+dist-ssr/
+archive/
+scripts/
+tests/
+*.tsbuildinfo
